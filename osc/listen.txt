@@ -1,0 +1,4 @@
+B?listen /WhereToListen:attribute enable (turn on the listening) 
+B?listen /WhereToListen:attribute disable (turn off the listening)
+
+A:listen /WhereToListen:attribute value (each time the attribute change if the listening is turned on)

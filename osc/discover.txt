@@ -1,0 +1,3 @@
+B?namespace /WhereToDiscover
+A:namespace /WhereToDiscover ObjectType nodes={ name1 name2 ...} attributes={ attributes of the object under the whereToDiscover node }
+

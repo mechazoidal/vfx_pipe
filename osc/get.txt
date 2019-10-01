@@ -1,0 +1,2 @@
+B?get /WhereToGet:attribute 
+A:get /WhereToGet:attribute value
